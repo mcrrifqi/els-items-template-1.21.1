@@ -5,6 +5,7 @@ import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+// this is where it begins..
 public class ElsItems implements ModInitializer {
 	public static final String MOD_ID = "els-items";
 	public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
